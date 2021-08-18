@@ -3,5 +3,5 @@ Function: If you open the server with this file, it opens after 3 seconds each t
 
 # Screenshot
 
-![Resim](https://www.hizliresim.com/bizcfu2)
+![Resim](https://i.hizliresim.com/bizcfu2.PNG)
 
